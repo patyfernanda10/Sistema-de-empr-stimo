@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2UofqVZtr+P5ZbKRp37NIjZiydpBTKWujwrKGl2njQM=",
+  "Source": "SistemaEmprestimos",
+  "BasePath": "_content/SistemaEmprestimos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

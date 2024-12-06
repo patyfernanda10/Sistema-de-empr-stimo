@@ -1,0 +1,6 @@
+C:\Users\SE68087\Desktop\PatriciaAprendiz\VisualStudio\SistemaEmprestimos\SistemaEmprestimos\obj\Debug\net8.0\SistemaEmprestimos.csproj.AssemblyReference.cache
+C:\Users\SE68087\Desktop\PatriciaAprendiz\VisualStudio\SistemaEmprestimos\SistemaEmprestimos\obj\Debug\net8.0\SistemaEmprestimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SE68087\Desktop\PatriciaAprendiz\VisualStudio\SistemaEmprestimos\SistemaEmprestimos\obj\Debug\net8.0\SistemaEmprestimos.AssemblyInfoInputs.cache
+C:\Users\SE68087\Desktop\PatriciaAprendiz\VisualStudio\SistemaEmprestimos\SistemaEmprestimos\obj\Debug\net8.0\SistemaEmprestimos.AssemblyInfo.cs
+C:\Users\SE68087\Desktop\PatriciaAprendiz\VisualStudio\SistemaEmprestimos\SistemaEmprestimos\obj\Debug\net8.0\SistemaEmprestimos.csproj.CoreCompileInputs.cache
+C:\Users\SE68087\Desktop\PatriciaAprendiz\VisualStudio\SistemaEmprestimos\SistemaEmprestimos\obj\Debug\net8.0\SistemaEmprestimos.MvcApplicationPartsAssemblyInfo.cache
